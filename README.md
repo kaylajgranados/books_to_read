@@ -32,11 +32,12 @@ I categorized Average Rating, Number of Pages, and Original Publication Year int
 This enabled me to filter the dataset to match certain criteria. 
 * I started with Very High Rating, which resulted in 111 rows. 
 * Then, I tried Very High Rating and Very Recent, still giving me 25 rows. 
-* Finally, when I filtered by Very High Rating, Medium Page Length, Very Recent, I had two options to chose from. 
+* Finally, when I filtered by Very High Rating, Medium Page Length, Very Recent, I had two books to chose from. 
 
 <img width="1132" alt="Screen Shot 2025-02-20 at 8 16 39 PM" src="https://github.com/user-attachments/assets/4214feac-bac9-4aac-8ab7-14fb13866e5d" />
 
-I next filtered for options that are Very High Rating, Very High Page Length, and Very Early Publication Year, which produces 5 options very differnt than the previous search results. 
+
+I next filtered for books with a Very High Rating, Very High Page Length, and Very Early Publication Year, which produces 5 options very different than the previous search results. 
 
 <img width="1128" alt="Screen Shot 2025-02-20 at 8 17 57 PM" src="https://github.com/user-attachments/assets/6aefb4ec-aef3-4bdb-9d4c-cacd4efc22bc" />
 
