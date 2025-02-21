@@ -4,7 +4,7 @@
 
 This project represents one evening spent writing Python pandas code to analyze my Goodreads "To Read" list. I plan on revisitng this to add matplotlib visualizations and clean up the code. 
 
-As an avid reader, I found myself with over 500 books shelved as "To Read" in Goodreads. It became challenging to sort this list in order to find my next read. I'm hoping to use my Python skills to solve this problem. 
+As an avid reader, I found myself with over 500 books shelved as "To Read" in Goodreads. It became challenging to sort through this list to find my next read. I'm hoping to use my Python skills to solve this problem. 
 
 # Dataset 
 
