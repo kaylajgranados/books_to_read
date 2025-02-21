@@ -37,6 +37,7 @@ This enabled me to filter the dataset to match certain criteria.
 <img width="1132" alt="Screen Shot 2025-02-20 at 8 16 39 PM" src="https://github.com/user-attachments/assets/4214feac-bac9-4aac-8ab7-14fb13866e5d" />
 
 
+
 I next filtered for books with a Very High Rating, Very High Page Length, and Very Early Publication Year, which produces 5 options very different than the previous search results. 
 
 <img width="1128" alt="Screen Shot 2025-02-20 at 8 17 57 PM" src="https://github.com/user-attachments/assets/6aefb4ec-aef3-4bdb-9d4c-cacd4efc22bc" />
