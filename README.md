@@ -1,4 +1,4 @@
-Books to Read Goodreads Data 
+## Books to Read Goodreads Data 
 
 # Background 
 
@@ -19,7 +19,7 @@ This dataset was exported from Goodreads. I excluded books that I've already rea
 * Average Rating: 4.01
 * Average Page Number: 366
 * Median Publication Year: 2015
-  *(Average Publication year was 1998 due to Epic of Gilgamesh publication date of 1200 BC)
+  **(Average Publication year was 1998 due to Epic of Gilgamesh publication date of 1200 BC)
 * Max Page Number: 1327
 * Max Rating: 4.88
 
