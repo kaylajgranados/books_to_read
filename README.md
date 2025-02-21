@@ -43,6 +43,6 @@ I next filtered for books with a Very High Rating, Very High Page Length, and Ve
 
 # Conclusion
 
-These filters can be used to narrow down book options based on rating, page number, and publication year in a much more efficient way than scrolling through 500+ books on Goodreads.  
+These filters can be used to narrow down book options based on rating, page number, and publication year in a much more efficient way than scrolling through 500+ books on Goodreads.  I'm excited to continuing playing around with this data and enjoying the books! :) 
 
 
